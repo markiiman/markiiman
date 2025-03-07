@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Developer at Full Scale**
 
-- 🌱 I’m currently learning **DevOps, Backend, Cloud Services**
+- 🌱 I’m currently learning **GraphQL, Supabase, DevOps, Cloud Services**
 
 - 👯 I’m looking to collaborate on **open source/commercial projects**
 
