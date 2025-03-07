@@ -13,8 +13,8 @@
 - 📫 How to reach me **markjerlybundalian@gmail.com**
 
 ## My Skills - Technologies I use
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,jquery,nodejs,expressjs,mongodb,git,github,vercel,netlify,laravel)
-![My Skills](https://skillicons.dev/icons?i=html,css,appwrite,firebase,mysql,postgres,bootstrap,vscode,bash,redis,figma,solidity,php,linux,docker)
+![My Skills](https://skillicons.dev/icons?i=js,ts,php,laravel,react,next,redux,tailwind,jquery,nodejs,expressjs,mongodb,git,github,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,appwrite,firebase,mysql,postgres,bootstrap,vscode,bash,redis,figma,solidity,netlify,linux,docker)
 
 ## 🌟 Most Used Weapons 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=markiiman&show_icons=true&locale=en&layout=compact&theme=tokyonight)
